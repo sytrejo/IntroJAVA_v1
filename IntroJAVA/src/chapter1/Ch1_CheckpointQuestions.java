@@ -28,9 +28,23 @@ public class Ch1_CheckpointQuestions {
 //	Disk size is measured in bytes.
 	
 //	6. What is the primary difference between memory and a storage device?
-//	A: Memory is volatile, becaause information is lost when the power is turned off. Programs and data are
+//	A: Memory is volatile, because information is lost when the power is turned off. Programs and data are
 //	 permanently stored on storage devices and are moved, when the computer actually uses them, to memory, 
 //	which is much faster than storage devices. 
+	
+	
+//	7. What language does the CPU understand?
+//	The machine language is a set of primitive instructions built into every computer. This is the language understood by
+//	computer and executed by a computer.
+	
+//	8. What is an assembly language? What is an assembler?
+//	Assembly language is a low-level programming language in which a mnemonic is used to represent each of 
+//	the machine language instructions. Assembler is a software that translates assembly language into machine language.
+	
+// 9. What is a high-level programming language? What is a source program?
+//	The high-level languages are English-like and easy to learn and program.
+//	The program written in a programming language is called a source program.
+	
 	
 	
 	
