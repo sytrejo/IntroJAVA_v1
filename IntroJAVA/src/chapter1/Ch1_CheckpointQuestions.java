@@ -24,6 +24,13 @@ public class Ch1_CheckpointQuestions {
 	
 	
 //	5. What is memory for? What does RAM stand for? Why is memory called RAM?
+//	A: Memory size is measured in bytes.
+//	Disk size is measured in bytes.
+	
+//	6. What is the primary difference between memory and a storage device?
+//	A: Memory is volatile, becaause information is lost when the power is turned off. Programs and data are
+//	 permanently stored on storage devices and are moved, when the computer actually uses them, to memory, 
+//	which is much faster than storage devices. 
 	
 	
 	
