@@ -139,6 +139,10 @@ public class Ch1_CheckpointQuestions {
  * 34. if  a NoSuchMethodError occurs when you run a program what is the cause of the error?
  * The class does not have a main method, or the signature of the main method is incorrect. 
  * 
+ * 35. What are syntax errors(compile errors), runtime errors, and logic errors?
+ * Syntax errors are detected by compilers.
+ * Runtime errors occur during execution of the program.
+ * Logic errors results in incorrect results.
  *
  * 
  * 
