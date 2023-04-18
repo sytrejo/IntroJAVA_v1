@@ -80,6 +80,25 @@ public class Ch1_CheckpointQuestions {
  * when it was redesigned for developing Internet applications. Oracle bought Sun and Oracle now owns Java.
  * 
  * 16. What is a Java applet?
+ * Java applet is a special program that runs from a Web browser. Due to security reasons, applets are no longer allowed to run
+ * from Web browsers
+ * 
+ * 17. What programming language does Android use?
+ * Android uses the Java programming language.
+ * 
+ * 18. What is the Java language specification?
+ * The Java language specification specifies the syntax for the Java language.
+ * 
+ * 19. What does JDK stand for? What does JRE stand for?
+ * JDK stands for Java development ToolKit. JRE stands for Java Runtime Encironment.
+ * 
+ * 20. What does IDE stand for?
+ * IDE stands for integrated development environment
+ * 
+ * 21. Are tools like NetBeans and Eclipse different languages from Java, or are they dialects or extensions of Java?
+ * NetBeans and Eclipse are not programming languages, nor dialects, nor extensions of Javaa. They are Java development tools.
+ * 
+ * 22. 
  * 
  * 
  * 
