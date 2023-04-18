@@ -90,7 +90,7 @@ public class Ch1_CheckpointQuestions {
  * The Java language specification specifies the syntax for the Java language.
  * 
  * 19. What does JDK stand for? What does JRE stand for?
- * JDK stands for Java development ToolKit. JRE stands for Java Runtime Encironment.
+ * JDK stands for Java development ToolKit. JRE stands for Java Runtime Environment.
  * 
  * 20. What does IDE stand for?
  * IDE stands for integrated development environment
@@ -98,18 +98,30 @@ public class Ch1_CheckpointQuestions {
  * 21. Are tools like NetBeans and Eclipse different languages from Java, or are they dialects or extensions of Java?
  * NetBeans and Eclipse are not programming languages, nor dialects, nor extensions of Javaa. They are Java development tools.
  * 
- * 22. 
+ * 22. What is a keyword? List some Java Keywords
+ * Keywords have specific meaning to the compiler and cannot be used for other purposes in the program such as variables or method
+ * names...examples of keywords are class, static, and void
+ * 
+ * 23. Is Java case sensitive? What is the case for Java keywords?
+ * Java source code is case sensitive. Java keywords are always in lowercase.
+ * 
+ * 24. What is a comment? Is the comment ignored by the compiler? How do you denote a comment line and a comment paragraph?
  * 
  * 
  * 
+ * 25. What is the statement to display a string on the console?
+ * System.out.println(string);
+ * 
+ * 26. see class Test
+ * 
+ *
  * 
  * 
  * 
+ *
  * 
  * 
- * 
- * 
- * 
+ *
  */
 	
 
