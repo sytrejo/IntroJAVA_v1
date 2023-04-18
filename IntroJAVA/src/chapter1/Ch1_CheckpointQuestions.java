@@ -23,6 +23,8 @@ public class Ch1_CheckpointQuestions {
 //	a bit is a binary digit ) or 1. A byte is a sequence of 8 bits.
 	
 	
+//	5. What is memory for? What does RAM stand for? Why is memory called RAM?
+	
 	
 	
 
