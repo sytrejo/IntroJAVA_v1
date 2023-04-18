@@ -52,7 +52,46 @@ public class Ch1_CheckpointQuestions {
  * language into machine language code
  */
 	
-	
+/** 
+ * 11. What is the difference between an interpreted language and a compiled language?
+ * An interpreter reads one statement from the source code, and translates it to the machine code or virtual machine code,
+ * then executes it right away. A compiler translates the entire source code into a machine code file, and the machine code
+ * file is then executed.
+ * 
+ * 12. What is an operating system? List some popular operating systems?
+ * The operating system(OS) is a program that manages and controls a computer's activities. The examples of OS are Windows
+ * 98, NT, 2000, XP or ME Windows. Application programs such as Internet browser and a word processor run on top of an operating
+ * system.
+ * 
+ * 13. What are the major responsibilities of an operating system?
+ * Major responsibilities include:
+ * 	-Controlling and monitoring system activities
+ * 	-Allocating and assigning system resources
+ * 	-Scheduling operations
+ * 
+ * 
+ * 14. What are multiprogramming, multithreading, and multiprocessing?
+ * Multiprogramming allows multiple programs to run simultaneously by sharing the CPU
+ * Multithreading allows concurrency within a program, so that its subtasks can run at the same time. 
+ * Multiprocessing, or parallel processing, uses two or more processors together to perform a task.
+ * 
+ * 15. Who invented Java? Which company owns Java now?
+ * Java was invented by a team led by James Gosling at Sun microsystems in 1991. Originally called Oak, it became Jave in 1995
+ * when it was redesigned for developing Internet applications. Oracle bought Sun and Oracle now owns Java.
+ * 
+ * 16. What is a Java applet?
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
 	
 
 }
