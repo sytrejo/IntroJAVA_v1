@@ -143,6 +143,18 @@ public class Ch1_CheckpointQuestions {
  * Syntax errors are detected by compilers.
  * Runtime errors occur during execution of the program.
  * Logic errors results in incorrect results.
+ * 
+ * 36. Give examples of syntax errors, runtime errors, and logic errors?
+ *  see code
+ *  
+ * 37. If you forget to put a closing quotation mark on a string, what kind of error will be raised?
+ * Syntax error
+ * 
+ * 38. If your program needs to read integers, but the user entered strings, and error would occur when running this program. What kind of error is this?
+ * Runtime error
+ * 
+ * 39. Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?
+ * Logic error
  *
  * 
  * 
