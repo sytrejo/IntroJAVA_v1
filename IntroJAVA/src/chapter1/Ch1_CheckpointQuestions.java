@@ -114,6 +114,31 @@ public class Ch1_CheckpointQuestions {
  * 
  * 26. see class Test
  * 
+ * 27. What is Java source filename extension, and what is the Java bytecode filename extension?
+ * The source file extension is .java and the bytecode file extension is .class
+ * 
+ * 28. What are the input and output of a Java compiler?
+ * The input of a Java compiler is a java source code file and the output is a Java class file
+ * 
+ * 29. What is the command to compile a Java program?
+ * javac is the JDK command to compile a program
+ * 
+ * 30. What is the command to run a Java program?
+ * java is the JDK command to run a program
+ * 
+ * 31. What is the JVM?
+ * JVM is the Java virtual machine that runs a java program.
+ * 
+ * 32. Can java run on any machine? What is needed to run Java on a computer?
+ * Java can run on any machine with a JVM
+ * 
+ * 33. if a NoClassDefFoundError occurs when you run a program, what is the cause of the error?
+ * Java interpreter cannot find the .class file. Make sure you placed the file in the right place, and invoked java command with appropriate
+ * package name.
+ * 
+ * 34. if  a NoSuchMethodError occurs when you run a program what is the cause of the error?
+ * The class does not have a main method, or the signature of the main method is incorrect. 
+ * 
  *
  * 
  * 

@@ -8,6 +8,9 @@ public class Test {
 		
 		System.out.println("3.5 * 4 /2 - 2.5 is");
 		System.out.println(3.5 * 4 /3 - 2.5);
+		
+		//the first prints a sting literal
+		//the second executes the arithmetic functions to display an answer.
 			
 
 	}
