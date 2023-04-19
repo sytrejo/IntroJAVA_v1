@@ -32,6 +32,15 @@ public class S2_16 {
 	
 	}
 	
+	/*
+	 * Write an expression that rounds down a double value in variable d to an integer. Write an expression that rounds a double value in variable d to an integer.
+			Rounding down d to an integer: (int)(d)
+			Rounding d to an integer: (int)(d + 0.5)
+			Correction: In the last paragraph in Section 2.16 in the book, replace "rounded up" with "rounded". Note: In mathematics, 
+			roundup(7.1) is 8. round(7.1) is 7. rounddown(7.6) is 7. round(7.6) is 8.
+
+	 */
+	
 	
 	
 
