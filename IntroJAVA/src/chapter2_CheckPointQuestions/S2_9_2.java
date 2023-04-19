@@ -1,6 +1,6 @@
 package chapter2_CheckPointQuestions;
 
-public class S2_9 {
+public class S2_9_2 {
 	/*
 	 * Find the largest and smallest byte, short, int, long float, and double. 
 	 * Which of these data types requires the least amount of memory? 
@@ -37,6 +37,24 @@ public class S2_9 {
 		System.out.println(25.0/4.0);
 		System.out.println(25.0/4);
 		System.out.println(25/4.0);
+		
+		//Show the result of the following code
+		System.out.println("***********2.9.2.4***************");
+		System.out.println(2 * (5 / 2 + 5 / 2));  //8
+		System.out.println(2 * 5 / 2 + 2 * 5 / 2); //10
+		System.out.println(2 * (5 / 2)); //4
+		System.out.println(2 * 5 / 2); //5
+		
+		//Are the following statements correct? If so, show the output.
+		System.out.println("***********2.9.2.5***************");
+		
+		System.out.println("25 / 4 is " + 25 / 4); //6
+		System.out.println("25 / 4.0 is " + 25 / 4.0); //6.25
+		System.out.println("3 * 2 / 4 is " + 3 * 2 / 4); //1
+		System.out.println("3.0 * 2 / 4 is " + 3.0 * 2 / 4); //1.5
+		
+		//the statements are correct but you need to remember what type of arithmetic the compiler will complete
+		
 
 	}
 
