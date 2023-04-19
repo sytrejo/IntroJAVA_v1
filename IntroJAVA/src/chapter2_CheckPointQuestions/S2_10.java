@@ -54,11 +54,13 @@ public class S2_10 {
 		//Show the output of the following code
 		
 		double a = 6.5;
-		a += a + 1;
+		a += a + 1; //a = 6.5 + 7.5. 
 		System.out.println(a);
 		a=6;
 		a /= 2;
 		System.out.println(a);
+		
+
 
 	}
 
