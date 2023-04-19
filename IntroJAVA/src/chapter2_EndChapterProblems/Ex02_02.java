@@ -2,7 +2,7 @@ package chapter2_EndChapterProblems;
 
 import java.util.Scanner;
 
-public class Ex2_02 {
+public class Ex02_02 {
 	
 	/*
 	 * Write a program that reads in the radius and length of a cylinder and computes the area
