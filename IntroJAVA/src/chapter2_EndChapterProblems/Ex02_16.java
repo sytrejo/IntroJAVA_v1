@@ -18,6 +18,7 @@ public class Ex02_16 {
 		
 		
 		//Compute the area
+		//math.pow(3,0.5) is the square root of 3
 		double area = 3 * Math.pow(3,  0.5) * side * side /2;
 		
 		System.out.println("The area of the hexagon is " + area);
