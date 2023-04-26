@@ -15,6 +15,29 @@ public class S3_6 {
 		
 		Boolean newLine = (count % 10) == 0;
 		System.out.println(newLine);
+		
+		//3.6.3
+		
+		//Are the following statements correct? Which one is better?
+		
+		int age = 15;
+				//(a)
+				if (age < 16) 
+				  System.out.println
+				    ("Cannot get a driver's license"); 
+				if (age >= 16) 
+				  System.out.println
+				    ("Can get a driver's license"); 
+
+				//(b)
+				if (age < 16) 
+				  System.out.println
+				    ("Cannot get a driver's license"); 
+				else 
+				  System.out.println
+				    ("Can get a driver's license");  
+				
+			//Both are correct b is better.
 
 	}
 
