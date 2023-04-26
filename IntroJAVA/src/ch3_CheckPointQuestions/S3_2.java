@@ -6,7 +6,12 @@ public class S3_2 {
 	 * 
 	 * A: < , <=, == , !=, > >=
 	 * 
-	 * 2. 
+	 * 2. Assuming that x is 1, show the result of the following Boolean Expressions:
+	 * 		a. x > 0  true
+	 * 		b. x < 0  false
+	 * 		c. x != 0 true
+	 * 		d. x >= 0 true
+	 * 		e. x != 1 false
 	 *
 	 */
 
