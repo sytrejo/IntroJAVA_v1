@@ -16,6 +16,35 @@ public class S3_4 {
 			System.out.println("After a 1% raise, your new salary is : " + salary);
 		}
 		
+		// test the following code
+		
+		int thirty = 30;
+		int thirtyFive = 35;
+		
+		
+//a number = thirty
+		if (thirty % 2 == 0) 
+		  System.out.println(thirty + " is even.");
+
+		System.out.println(thirty + " is odd.");  // poor control
+
+//b number = thirty	
+		if (thirty % 2 == 0) 
+		  System.out.println(thirty + " is even.");
+		else   
+		  System.out.println(thirty + " is odd.");
+		
+		//a number = thirtyFive
+				if (thirtyFive % 2 == 0) 
+				  System.out.println(thirtyFive + " is even.");
+
+				System.out.println(thirtyFive + " is odd.");  // poor control
+
+		//b number = thirtyFive	
+				if (thirtyFive % 2 == 0) 
+				  System.out.println(thirtyFive + " is even.");
+				else   
+				  System.out.println(thirtyFive + " is odd.");
 		
 		
 
