@@ -35,5 +35,18 @@ public class S3_3 {
 		
 
 	}
+	
+	/**
+	 * What is wrong in the following code?
+	 * 
+	 * if radius >= 0 { 
+	 * area = radius * radius * PI; 
+	 * System.out.println("The area for the circle of " + " radius " + radius
+	 * + " is " + area); 
+	 * }
+	 * 
+	 * The parentheses is required for the condition radius >=0
+	 * 
+	 */
 
 }
