@@ -38,6 +38,42 @@ public class S3_6 {
 				    ("Can get a driver's license");  
 				
 			//Both are correct b is better.
+				
+		//3.6.4
+				
+				//What is the output of the following code if number is 14, 15, or 30?
+				
+				int number = 14;
+						//(a)
+						if (number % 2 == 0) 
+						  System.out.println
+						    (number + " is even"); 
+						if (number % 5 == 0)
+						  System.out.println
+						    (number + " is multiple of 5"); 
+
+						//(b)
+						if (number % 2 == 0) 
+						  System.out.println
+						    (number + " is even"); 
+						else if (number % 5 == 0)
+						  System.out.println
+						    (number + " is multiple of 5"); 
+						
+//			For (a) if number is 14, the output is
+//			            14 is even
+//			if number is 15, the output is
+//			            15 is multiple of 5
+//			if number is 30, the output is
+//			            30 is even
+//			            30 is multiple of 5
+//			For (b) if number is 14, the output is
+//			            14 is even
+//			If number is 15, the output is
+//			            15 is multiple of 5
+//			if number is 30, the output is
+//			            30 is even	
+						
 
 	}
 
