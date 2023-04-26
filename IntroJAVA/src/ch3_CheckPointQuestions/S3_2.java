@@ -12,6 +12,14 @@ public class S3_2 {
 	 * 		c. x != 0 true
 	 * 		d. x >= 0 true
 	 * 		e. x != 1 false
+	 * 3. Can the following conversions involving casting be allowed? 
+	 * 
+	 * boolean b = true;
+	 * i = (int) b;
+	 * int i = 1;
+	 * boolean b = (boolean) i;
+	 * 
+	 * No. Boolean values cannot be xast to otherr types.
 	 *
 	 */
 
