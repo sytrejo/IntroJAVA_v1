@@ -44,6 +44,24 @@ public class S3_10 {
 			
 		}
 		
+		/*
+		 * 4. Assume that x and y are int type. Which of the following are legal Java expressions?
+		 * 
+		 * a. x > y > 0  //incorrect not valid
+		 * b. x = y && y //incorrect not valid
+		 * c. x /= y 	 // correct divide x by y and set the result as the new value for x
+		 * d. x or y	 // incorrect not valid
+		 * e. x and y	// incorrect not valid	
+		 * f. (x != 0) || (x = 0) // incorrect on x = 0...it should be x == 0
+		 * 
+		 * 
+		 */
+		
+//		5. Are the following two expressions the same?
+//				(a) x % 2 == 0 && x % 3 == 0 
+//				(b) x % 6 == 0 
+		//Answer: yes
+		
 	}
 
 }
