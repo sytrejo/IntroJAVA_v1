@@ -29,7 +29,25 @@ public class S3_7 {
 	 */
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//3.9.1
+//		Are the following two statements equivalent?
+//				(a)
+//				if (income <= 10000) 
+//				  tax = income * 0.1; 
+//				else if (income <= 20000) 
+//				  tax = 1000 + 
+//				    (income - 10000) * 0.15; 
+//
+//				(b)
+//				if (income <= 10000) 
+//				  tax = income * 0.1; 
+//				else if (income > 10000 &&
+//				         income <= 20000) 
+//				  tax = 1000 + 
+//				    (income - 10000) * 0.15; 
+		
+		//Answer: yes
 
 	}
 
