@@ -93,13 +93,23 @@ public class S3_10 {
 		}
 		
 		/*
-		 * 9. Write a Boolean expression that evaluates to true if weight is greater than 50 pounds AND height is greater than 60 inches.
+		 * 10. Write a Boolean expression that evaluates to true if weight is greater than 50 pounds AND height is greater than 60 inches.
 		 * 
 		 */
 		
 		if( weight > 50 && height > 60) {
 			System.out.println("Your weight is above 50 pounds AND you are taller than 60 inches");
 		}
+		
+		/*
+		 * 1. Write a Boolean expression that evaluates to true if either weight is greater than 50 pounds or height is greater than 60 inches but not both.
+		 * 
+		 */
+		
+		if( weight > 50 ^ height > 60) {
+			System.out.println("Either your weight is above 50 pounds or you are taller than 60 inches");
+		}
+		
 		
 	}
 
