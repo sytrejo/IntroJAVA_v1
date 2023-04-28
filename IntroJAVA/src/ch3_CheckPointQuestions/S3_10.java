@@ -80,6 +80,18 @@ public class S3_10 {
 			System.out.println("You are a teenager");
 		}
 		
+		/*
+		 * 9. Write a Boolean expression that evaluates to true if weight is greater than 50 pounds or height is greater than 60 inches.
+		 * 
+		 */
+		
+		int weight = 60;
+		int height = 75;
+		
+		if( weight > 50 || height > 60) {
+			System.out.println("Either your weight is above 50 pounds or you are taller than 60 inches");
+		}
+		
 	}
 
 }
