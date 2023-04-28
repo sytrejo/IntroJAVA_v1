@@ -62,6 +62,14 @@ public class S3_10 {
 //				(b) x % 6 == 0 
 		//Answer: yes
 		
+		/*
+		 * 6. What is the value of the expression x >= 50 && x <= 100 if x is 45, 67, or 101?
+		 * a. if x is 45, the expression is false
+		 * b. if x is 67, the expression is true
+		 * c. if x is 101, the expression is false
+		 * 
+		 */
+		
 	}
 
 }
