@@ -70,6 +70,16 @@ public class S3_10 {
 		 * 
 		 */
 		
+		/*
+		 * 8. Write a Boolean expression that evaluates to true if age is greater than 13 and less than 18?
+		 */
+		
+		int age = 16;
+		
+		if(age>13 && age < 18) {
+			System.out.println("You are a teenager");
+		}
+		
 	}
 
 }
