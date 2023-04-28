@@ -28,6 +28,22 @@ public class S3_10 {
 			System.out.println("I am a random number");
 		}
 		
+		double x = 10.3;
+		//3a. Write a boolean expression for |x-5| < 4.5
+		
+		if((x - 5) < 4.5 && (x - 5) > -4.5) {
+			System.out.println("I'm the absolute value of |x-5| which is less than 4.5");
+			
+		}
+		
+		
+		//3b. Write a Boolean expression for |x-5| > 4.5
+		
+		if((x - 5) < 4.5 || (x - 5) > -4.5) {
+			System.out.println("I'm the absolute value of |x-5| which is greater than 4.5");
+			
+		}
+		
 	}
 
 }
