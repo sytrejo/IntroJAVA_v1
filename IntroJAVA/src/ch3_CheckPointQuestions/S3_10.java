@@ -110,6 +110,34 @@ public class S3_10 {
 			System.out.println("Either your weight is above 50 pounds or you are taller than 60 inches");
 		}
 		
+		/*
+		 * 12. What happens if you enter an integer as 05?
+		 * 
+		 * it will be the same as entering it as 5
+		 * 
+		 * 
+		 * 13. What data types are required for a switch variable? If the Keyword break is not used after a case is sprocessed, what is the next statement to be executed?
+		 * Can you convert a switch statement to an equivalent if statement, or vice versa? What are the advantages of using a switch statement?
+		 * 
+		 * Switch variables must be of char, byte, short, int or String types. If a break statement is not used, the next case statement is performed. You can always convert
+		 * a switch statement to an equivalent if statement, but not an if statement to a switch statement. The use of the switch statement can improve readability of the 
+		 * program in some cases. The compiled code for the switch statement is also more efficient than its corresponsing if statement.
+		 * 
+		 * 13.2 What is y after the following switch statement is wxecuted? Rewrite the code using an if-else statement?
+		 * 
+		 * x = 3; y 3;
+		 * switch(x + 3){
+		 * case 6: y = 1;
+		 * default: y += 1;
+		 * }
+		 * 
+		 * Answer: x + 3 is 6. It is case 6. y is 1. Because it does not have the break statement, it falls through to the next case. That is the default case. y += 1. y becomes 2.
+		 * 
+		 * if( x + 3 == 6){
+		 * 		y = 1;
+		 * }
+		 * y += 1;
+		 */
 		
 	}
 
