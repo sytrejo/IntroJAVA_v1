@@ -168,6 +168,34 @@ public class S3_10 {
 //		  case 6: System.out.println("Saturday"); break;
 //		}
 		
+//		Rewrite the switch statement in Listing 3.8 using an if-else statement.
+//	    int remainder = year % 12;
+//	    if (remainder == 0) 
+//	      System.out.println("monkey"); 
+//	    else if (remainder == 1) 
+//	      System.out.println("rooster");
+//	    else if (remainder == 2) 
+//	      System.out.println("dog"); 
+//	    else if (remainder == 3) 
+//	      System.out.println("pig");
+//	    else if (remainder == 4) 
+//	      System.out.println("rat"); 
+//	    else if (remainder == 5) 
+//	      System.out.println("ox"); 
+//	    else if (remainder == 6) 
+//	      System.out.println("tiger");
+//	    else if (remainder == 7) 
+//	      System.out.println("rabbit");
+//	    else if (remainder == 8) 
+//	      System.out.println("dragon");
+//	    else if (remainder == 9) 
+//	      System.out.println("snake");
+//	    else if (remainder == 10) 
+//	      System.out.println("horse"); 
+//	    else 
+//	      System.out.println("sheep"); 
+
+		
 	}
 
 }
