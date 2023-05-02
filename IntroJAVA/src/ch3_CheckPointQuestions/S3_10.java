@@ -139,6 +139,24 @@ public class S3_10 {
 		 * y += 1;
 		 */
 		
+//		What is x after the following if-else statement is executed? Use a switch statement to rewrite it.
+//				int x = 1, a = 3;
+//				if (a == 1)
+//				  x += 5;
+//				else if (a == 2)
+//				  x += 10;
+//				else if (a == 3)
+//				  x += 16;
+//				else if (a == 4)
+//				  x += 34;
+//				x is 17
+//				switch (a) { 
+//				  case 1: x += 5; break;
+//				  case 2: x += 10; break;
+//				  case 3: x += 16; break;
+//				  case 4: x += 34;
+//				}
+		
 	}
 
 }
